@@ -16,6 +16,7 @@ padding to 30px (creates an invisible space around the element)
   width: 700px;
   margin: auto;
   font-family: "Helvicta Neue";
+  background: white;
 }
 
 /* ID selector to select the element with id 'main-header' */
